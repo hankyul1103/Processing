@@ -1,5 +1,5 @@
 function setup() {
-//oma10930hankyul
+   oma10930;
 }
 
 
